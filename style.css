@@ -1,0 +1,64 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
+body{
+	background-color: lightgray;
+}
+.one{
+	height: 200px;
+	border-radius: 20px;
+
+
+}
+.two{
+	height: 200px;
+	border-radius: 20px;
+
+
+}
+.three{
+	width:458px;
+	height: 200px;
+	border-radius: 20px;
+
+
+}
+.four{
+	height: 650px;
+	border-radius: 20px;
+
+
+}
+.five{
+	width: 735px;
+	margin: auto;
+	border-radius: 20px;
+
+
+}
+.five1{
+	height: 200px;
+	width: 730px;
+	border-radius: 20px;
+
+
+}
+.six{
+	object-fit: cover;
+	height: 200px;
+	width: 350px;
+	border-radius: 20px;
+
+
+
+}
+.seven{
+	object-fit: cover;
+	height: 200px;
+	width: 350px;
+	border-radius: 20px;
+
+
+}
+
